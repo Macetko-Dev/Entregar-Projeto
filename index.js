@@ -3,7 +3,7 @@
 // Data: 05/11/2023
 ​
 //Variaveis
-var nomeHeroi = "Macetko.Dev";
+var nomeHeroi = "Die_Hard";
 var xpHeroi = "8600";
 ​
 function classificarNivelDeHeroi() {
@@ -27,10 +27,10 @@ function classificarNivelDeHeroi() {
     xpHeroi = "Radiante"
   ]
 ​
-  console.log(`O Herói de nome ${"Macetko.Dev"} está no nível de ${xpHeroi}`);
+  console.log(`O Herói de nome ${"Die_Hard"} está no nível de ${xpHeroi}`);
 }
 ​
 classificarNivelDeHeroi();
 ​
 //Saida
-"O Herói Macetko.Dev está no nivel Ascendente"
+"O Herói Die_Hard está no nivel Ascendente"
